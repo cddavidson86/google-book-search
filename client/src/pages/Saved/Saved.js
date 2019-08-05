@@ -46,7 +46,7 @@ class Saved extends Component {
       return (
         <div>
           <Jumbotron>
-            <h1 className="display-4">(React) Google Books Search</h1>
+            <h1 className="display-4">Books Search</h1>
             <p className="lead">Search for and annotate books of interest.</p>
             <hr className="my-4" />
             <p className="lead">
@@ -63,7 +63,7 @@ class Saved extends Component {
     return (
       <div>
         <Jumbotron>
-          <h1 className="display-4">(React) Google Books Search</h1>
+          <h1 className="display-4">Books Search</h1>
           <p className="lead">Search for and save books of interest.</p>
           <hr className="my-4" />
           <p className="lead">
